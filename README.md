@@ -4,9 +4,13 @@
 
 今回は、その代表的な以下の二つの手法について実装してみた。
 
-粒子群最適化（particle swarm optimization, PSO）
+- 粒子群最適化（particle swarm optimization, PSO）
 
-人工蜂コロニーアルゴリズム(artificial bee colony algorithm, ABC)
+参考論文: http://nlab.ee.tokushima-u.ac.jp/nishio/Pub-Data/WORK/W572.pdf
+
+- 人工蜂コロニーアルゴリズム(artificial bee colony algorithm, ABC)
+
+参考論文: https://www.jstage.jst.go.jp/article/iscie/24/4/24_4_97/_pdf
 
 求めるテスト関数は以下の６つ。最小値を求める。
 
