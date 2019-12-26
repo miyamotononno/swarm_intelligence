@@ -17,9 +17,9 @@
 ## 実行
 
 ```
-$ python3 executer pso
+$ python3 executer.py pso
 // or
-$ python3 executer abc
+$ python3 executer.py abc
 ```
 
 ## テスト関数
