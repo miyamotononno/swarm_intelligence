@@ -20,9 +20,7 @@
 $ python3 executer pso
 // or
 $ python3 executer abc
-
 ```
-
 
 ## テスト関数
 
